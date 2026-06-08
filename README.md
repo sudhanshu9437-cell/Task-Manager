@@ -6,7 +6,7 @@ A simple, responsive **Task Manager** web app built with vanilla HTML, CSS, and 
 
 ## 🌐 Live Demo
 
-> Open `https://sudhanshu9437-cell.github.io/Task-Manager/` in any browser — no server needed.
+https://sudhanshu9437-cell.github.io/Task-Manager/
 
 ---
 
